@@ -1,3 +1,7 @@
+# 2024-07-24
+
+- Add README file
+
 # 2024-03-10
 
 - Add CHANGELOG file
