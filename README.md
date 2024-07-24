@@ -2,7 +2,9 @@
 
 > PHPPlayGround is a playground for PHP code. Here you can test PHP code. <br />
 
-<br /> <p style="font-size: 25px;">[Demo](https://phpplayground.rf.gd/)</p>
+<br />
+
+## [Demo](https://phpplayground.rf.gd/)
 
 ## 🚀 Quick Start
 
