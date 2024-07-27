@@ -1,4 +1,4 @@
-FROM php:8.2-apache
+FROM php:8.3.9-apache
 WORKDIR /var/www/html
 COPY . .
 RUN apt-get update
